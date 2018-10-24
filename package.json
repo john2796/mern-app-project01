@@ -1,0 +1,24 @@
+{
+  "name": "mern-app-project01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/john2796/mern-app-project01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/john2796/mern-app-project01/issues"
+  },
+  "homepage": "https://github.com/john2796/mern-app-project01#readme",
+  "dependencies": {
+    "graphql-yoga": "^1.16.7",
+    "mongoose": "^5.3.6"
+  }
+}
