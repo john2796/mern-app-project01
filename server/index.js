@@ -52,3 +52,5 @@ const server = new GraphQLServer({ typeDefs, resolvers });
 mongoose.connection.once("open", function() {
   server.start(() => console.log("Server is running on localhost:4000"));
 });
+
+///  Need to finish
